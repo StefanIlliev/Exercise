@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\bin\Debug\fromctof.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\bin\Debug\fromctof.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\bin\Debug\fromctof.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\obj\Debug\fromctof.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\obj\Debug\fromctof.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\fromctof\obj\Debug\fromctof.pdb

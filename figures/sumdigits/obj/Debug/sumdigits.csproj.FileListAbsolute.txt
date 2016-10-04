@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\bin\Debug\sumdigits.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\bin\Debug\sumdigits.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\bin\Debug\sumdigits.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\obj\Debug\sumdigits.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\obj\Debug\sumdigits.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\sumdigits\obj\Debug\sumdigits.pdb

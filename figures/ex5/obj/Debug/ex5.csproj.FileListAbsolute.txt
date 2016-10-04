@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex5\bin\Debug\ex5.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex5\bin\Debug\ex5.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex5\bin\Debug\ex5.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex5\obj\Debug\ex5.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex5\obj\Debug\ex5.pdb

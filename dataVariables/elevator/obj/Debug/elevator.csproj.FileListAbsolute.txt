@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\elevator\bin\Debug\elevator.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\elevator\bin\Debug\elevator.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\elevator\bin\Debug\elevator.pdb
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\elevator\obj\Debug\elevator.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\elevator\obj\Debug\elevator.pdb

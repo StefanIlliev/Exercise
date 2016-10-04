@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\bin\Debug\Zelenchuci.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\bin\Debug\Zelenchuci.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\bin\Debug\Zelenchuci.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\obj\Debug\Zelenchuci.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\obj\Debug\Zelenchuci.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\Zelenchuci\obj\Debug\Zelenchuci.pdb

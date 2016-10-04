@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\bin\Debug\greeting.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\bin\Debug\greeting.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\bin\Debug\greeting.pdb
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\obj\Debug\greeting.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\obj\Debug\greeting.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\greeting\obj\Debug\greeting.pdb

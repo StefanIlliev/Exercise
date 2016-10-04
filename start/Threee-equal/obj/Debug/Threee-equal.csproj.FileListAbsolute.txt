@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\start\Threee-equal\bin\Debug\Threee-equal.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\start\Threee-equal\bin\Debug\Threee-equal.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\Threee-equal\bin\Debug\Threee-equal.pdb
+c:\users\animal\documents\visual studio 2015\Projects\start\Threee-equal\obj\Debug\Threee-equal.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\Threee-equal\obj\Debug\Threee-equal.pdb

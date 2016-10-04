@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\bin\Debug\operaciichisla.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\obj\Debug\operaciichisla.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\bin\Debug\operaciichisla.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\bin\Debug\operaciichisla.pdb
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\obj\Debug\operaciichisla.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\operaciichisla\obj\Debug\operaciichisla.pdb

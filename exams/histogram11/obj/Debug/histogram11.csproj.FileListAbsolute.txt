@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\histogram11\bin\Debug\histogram11.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\histogram11\bin\Debug\histogram11.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\histogram11\bin\Debug\histogram11.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\histogram11\obj\Debug\histogram11.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\histogram11\obj\Debug\histogram11.pdb

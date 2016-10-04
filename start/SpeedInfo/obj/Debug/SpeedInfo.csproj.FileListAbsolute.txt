@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\start\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\start\SpeedInfo\bin\Debug\SpeedInfo.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\SpeedInfo\bin\Debug\SpeedInfo.pdb
+c:\users\animal\documents\visual studio 2015\Projects\start\SpeedInfo\obj\Debug\SpeedInfo.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\SpeedInfo\obj\Debug\SpeedInfo.pdb

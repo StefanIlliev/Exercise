@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\inchtosm\bin\Debug\inchtosm.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\inchtosm\bin\Debug\inchtosm.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\inchtosm\bin\Debug\inchtosm.pdb
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\inchtosm\obj\Debug\inchtosm.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\inchtosm\obj\Debug\inchtosm.pdb

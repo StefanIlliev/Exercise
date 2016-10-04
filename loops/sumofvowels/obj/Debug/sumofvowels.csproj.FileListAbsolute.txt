@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\bin\Debug\sumofvowels.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\obj\Debug\sumofvowels.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\bin\Debug\sumofvowels.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\bin\Debug\sumofvowels.pdb
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\obj\Debug\sumofvowels.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\sumofvowels\obj\Debug\sumofvowels.pdb

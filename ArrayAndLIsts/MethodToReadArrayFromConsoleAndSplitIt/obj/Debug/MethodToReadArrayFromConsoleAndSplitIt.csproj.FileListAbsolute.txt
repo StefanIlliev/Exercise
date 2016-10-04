@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\bin\Debug\MethodToReadArrayFromConsoleAndSplitIt.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\bin\Debug\MethodToReadArrayFromConsoleAndSplitIt.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\bin\Debug\MethodToReadArrayFromConsoleAndSplitIt.pdb
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\obj\Debug\MethodToReadArrayFromConsoleAndSplitIt.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\obj\Debug\MethodToReadArrayFromConsoleAndSplitIt.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\MethodToReadArrayFromConsoleAndSplitIt\obj\Debug\MethodToReadArrayFromConsoleAndSplitIt.pdb

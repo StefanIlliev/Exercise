@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\bin\Debug\draw1.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\bin\Debug\draw1.exe
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\bin\Debug\draw1.pdb
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\obj\Debug\draw1.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\obj\Debug\draw1.exe
+c:\users\animal\documents\visual studio 2015\Projects\figures\draw1\obj\Debug\draw1.pdb

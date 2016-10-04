@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\bin\Debug\trip.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\bin\Debug\trip.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\bin\Debug\trip.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\obj\Debug\trip.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\obj\Debug\trip.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\trip\obj\Debug\trip.pdb

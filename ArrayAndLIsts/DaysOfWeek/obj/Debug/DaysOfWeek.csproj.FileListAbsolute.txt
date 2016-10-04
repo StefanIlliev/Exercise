@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\bin\Debug\DaysOfWeek.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\bin\Debug\DaysOfWeek.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\bin\Debug\DaysOfWeek.pdb
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\obj\Debug\DaysOfWeek.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\obj\Debug\DaysOfWeek.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\DaysOfWeek\obj\Debug\DaysOfWeek.pdb

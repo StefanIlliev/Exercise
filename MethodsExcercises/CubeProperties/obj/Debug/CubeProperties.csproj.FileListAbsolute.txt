@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\bin\Debug\CubeProperties.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\bin\Debug\CubeProperties.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\bin\Debug\CubeProperties.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\obj\Debug\CubeProperties.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CubeProperties\obj\Debug\CubeProperties.pdb

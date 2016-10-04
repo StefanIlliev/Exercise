@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\bin\Debug\NOD.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\bin\Debug\NOD.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\bin\Debug\NOD.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\obj\Debug\NOD.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\obj\Debug\NOD.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\NOD\obj\Debug\NOD.pdb

@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\bin\Debug\diamond.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\bin\Debug\diamond.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\bin\Debug\diamond.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\obj\Debug\diamond.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\obj\Debug\diamond.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\diamond\obj\Debug\diamond.pdb

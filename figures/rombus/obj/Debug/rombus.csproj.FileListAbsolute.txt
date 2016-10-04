@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\bin\Debug\rombus.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\obj\Debug\rombus.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\bin\Debug\rombus.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\bin\Debug\rombus.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\obj\Debug\rombus.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\rombus\obj\Debug\rombus.pdb

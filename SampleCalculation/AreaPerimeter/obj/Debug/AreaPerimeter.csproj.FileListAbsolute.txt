@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\AreaPerimeter\bin\Debug\AreaPerimeter.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\AreaPerimeter\bin\Debug\AreaPerimeter.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\AreaPerimeter\bin\Debug\AreaPerimeter.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\AreaPerimeter\obj\Debug\AreaPerimeter.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\AreaPerimeter\obj\Debug\AreaPerimeter.pdb

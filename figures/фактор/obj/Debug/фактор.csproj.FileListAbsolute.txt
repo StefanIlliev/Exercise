@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\фактор\bin\Debug\фактор.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\фактор\bin\Debug\фактор.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\фактор\bin\Debug\фактор.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\фактор\obj\Debug\фактор.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\фактор\obj\Debug\фактор.pdb

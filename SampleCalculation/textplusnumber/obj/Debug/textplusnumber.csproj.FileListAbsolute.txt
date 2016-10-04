@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\textplusnumber\bin\Debug\textplusnumber.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\textplusnumber\bin\Debug\textplusnumber.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\textplusnumber\bin\Debug\textplusnumber.pdb
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\textplusnumber\obj\Debug\textplusnumber.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\textplusnumber\obj\Debug\textplusnumber.pdb

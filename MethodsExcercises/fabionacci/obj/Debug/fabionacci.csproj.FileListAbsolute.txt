@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\bin\Debug\fabionacci.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\bin\Debug\fabionacci.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\bin\Debug\fabionacci.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\obj\Debug\fabionacci.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\obj\Debug\fabionacci.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\fabionacci\obj\Debug\fabionacci.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabionacci", "fabionacci\fabionacci.csproj", "{96644D4E-BA96-4A8A-A33B-4334891ABD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{830BFECB-6768-4FE2-9963-621EA0D11472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeLIstINt", "PrimeLIstINt\PrimeLIstINt.csproj", "{9057F49A-0F00-43B6-A900-9A1704D3D7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartesianCoordinates", "CartesianCoordinates\CartesianCoordinates.csproj", "{A38DD4F7-8CED-45F2-B3F4-AB5B2BAFCE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeProperties", "CubeProperties\CubeProperties.csproj", "{677A352F-15C4-4F3D-8A27-A18A6C5A64DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricCalculator", "GeometricCalculator\GeometricCalculator.csproj", "{BABC4DBF-5CF9-4E0C-80D1-5717E417DA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96644D4E-BA96-4A8A-A33B-4334891ABD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96644D4E-BA96-4A8A-A33B-4334891ABD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96644D4E-BA96-4A8A-A33B-4334891ABD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96644D4E-BA96-4A8A-A33B-4334891ABD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830BFECB-6768-4FE2-9963-621EA0D11472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830BFECB-6768-4FE2-9963-621EA0D11472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830BFECB-6768-4FE2-9963-621EA0D11472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830BFECB-6768-4FE2-9963-621EA0D11472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9057F49A-0F00-43B6-A900-9A1704D3D7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9057F49A-0F00-43B6-A900-9A1704D3D7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9057F49A-0F00-43B6-A900-9A1704D3D7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9057F49A-0F00-43B6-A900-9A1704D3D7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38DD4F7-8CED-45F2-B3F4-AB5B2BAFCE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38DD4F7-8CED-45F2-B3F4-AB5B2BAFCE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38DD4F7-8CED-45F2-B3F4-AB5B2BAFCE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38DD4F7-8CED-45F2-B3F4-AB5B2BAFCE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677A352F-15C4-4F3D-8A27-A18A6C5A64DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677A352F-15C4-4F3D-8A27-A18A6C5A64DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677A352F-15C4-4F3D-8A27-A18A6C5A64DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677A352F-15C4-4F3D-8A27-A18A6C5A64DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABC4DBF-5CF9-4E0C-80D1-5717E417DA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABC4DBF-5CF9-4E0C-80D1-5717E417DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABC4DBF-5CF9-4E0C-80D1-5717E417DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABC4DBF-5CF9-4E0C-80D1-5717E417DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

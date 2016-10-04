@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\bin\Debug\division.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\bin\Debug\division.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\bin\Debug\division.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\obj\Debug\division.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\obj\Debug\division.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\division\obj\Debug\division.pdb

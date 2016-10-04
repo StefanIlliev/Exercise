@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\bin\Debug\2sums.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\bin\Debug\2sums.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\bin\Debug\2sums.pdb
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\obj\Debug\2sums.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\obj\Debug\2sums.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\2sums\obj\Debug\2sums.pdb

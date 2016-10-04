@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\bin\Debug\ReversedString[].exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\bin\Debug\ReversedString[].exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\bin\Debug\ReversedString[].pdb
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\obj\Debug\ReversedString[].csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\obj\Debug\ReversedString[].exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedString[]\obj\Debug\ReversedString[].pdb

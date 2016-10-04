@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\bin\Debug\smartlily.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\bin\Debug\smartlily.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\bin\Debug\smartlily.pdb
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\obj\Debug\smartlily.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\obj\Debug\smartlily.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\smartlily\obj\Debug\smartlily.pdb

@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\preparation\ex3\bin\Debug\ex3.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\preparation\ex3\bin\Debug\ex3.exe
+c:\users\animal\documents\visual studio 2015\Projects\preparation\ex3\bin\Debug\ex3.pdb
+c:\users\animal\documents\visual studio 2015\Projects\preparation\ex3\obj\Debug\ex3.exe
+c:\users\animal\documents\visual studio 2015\Projects\preparation\ex3\obj\Debug\ex3.pdb

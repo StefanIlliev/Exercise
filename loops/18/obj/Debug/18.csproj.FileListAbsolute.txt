@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\bin\Debug\18.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\bin\Debug\18.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\bin\Debug\18.pdb
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\obj\Debug\18.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\obj\Debug\18.exe
+c:\users\animal\documents\visual studio 2015\Projects\loops\18\obj\Debug\18.pdb

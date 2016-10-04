@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\greetings\bin\Debug\greetings.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\greetings\bin\Debug\greetings.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\greetings\bin\Debug\greetings.pdb
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\greetings\obj\Debug\greetings.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\greetings\obj\Debug\greetings.pdb

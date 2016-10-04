@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Score-bonusscore\bin\Debug\Score-bonusscore.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Score-bonusscore\bin\Debug\Score-bonusscore.exe
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Score-bonusscore\bin\Debug\Score-bonusscore.pdb
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Score-bonusscore\obj\Debug\Score-bonusscore.exe
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Score-bonusscore\obj\Debug\Score-bonusscore.pdb

@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\bin\Debug\GeometricCalculator.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\bin\Debug\GeometricCalculator.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\bin\Debug\GeometricCalculator.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\obj\Debug\GeometricCalculator.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\obj\Debug\GeometricCalculator.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\GeometricCalculator\obj\Debug\GeometricCalculator.pdb

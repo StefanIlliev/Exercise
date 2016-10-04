@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

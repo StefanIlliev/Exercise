@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\bin\Debug\jeni.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\bin\Debug\jeni.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\bin\Debug\jeni.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\obj\Debug\jeni.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\obj\Debug\jeni.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\jeni\obj\Debug\jeni.pdb

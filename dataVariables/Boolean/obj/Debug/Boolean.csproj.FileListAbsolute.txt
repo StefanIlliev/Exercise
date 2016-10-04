@@ -1,0 +1,6 @@
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\bin\Debug\Boolean.exe
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\bin\Debug\Boolean.pdb
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\obj\Debug\Boolean.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\obj\Debug\Boolean.exe
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Boolean\obj\Debug\Boolean.pdb

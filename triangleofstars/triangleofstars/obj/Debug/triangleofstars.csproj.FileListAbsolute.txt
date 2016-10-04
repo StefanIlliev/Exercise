@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\triangleofstars\triangleofstars\bin\Debug\triangleofstars.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\triangleofstars\triangleofstars\bin\Debug\triangleofstars.exe
+c:\users\animal\documents\visual studio 2015\Projects\triangleofstars\triangleofstars\bin\Debug\triangleofstars.pdb
+c:\users\animal\documents\visual studio 2015\Projects\triangleofstars\triangleofstars\obj\Debug\triangleofstars.exe
+c:\users\animal\documents\visual studio 2015\Projects\triangleofstars\triangleofstars\obj\Debug\triangleofstars.pdb

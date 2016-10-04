@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\bin\Debug\areafig.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\bin\Debug\areafig.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\bin\Debug\areafig.pdb
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\obj\Debug\areafig.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\obj\Debug\areafig.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\areafig\obj\Debug\areafig.pdb

@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\bin\Debug\radius.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\bin\Debug\radius.exe
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\bin\Debug\radius.pdb
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\obj\Debug\radius.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\obj\Debug\radius.exe
+c:\users\animal\documents\visual studio 2015\Projects\radius\radius\obj\Debug\radius.pdb

@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\bin\Debug\traininglab.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\bin\Debug\traininglab.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\bin\Debug\traininglab.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\obj\Debug\traininglab.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\obj\Debug\traininglab.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\traininglab\obj\Debug\traininglab.pdb

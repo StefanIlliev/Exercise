@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\bin\Debug\PrimeLIstINt.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\bin\Debug\PrimeLIstINt.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\bin\Debug\PrimeLIstINt.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\obj\Debug\PrimeLIstINt.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\obj\Debug\PrimeLIstINt.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeLIstINt\obj\Debug\PrimeLIstINt.pdb

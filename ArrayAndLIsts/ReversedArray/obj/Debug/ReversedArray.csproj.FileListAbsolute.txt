@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedArray\bin\Debug\ReversedArray.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedArray\bin\Debug\ReversedArray.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedArray\bin\Debug\ReversedArray.pdb
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedArray\obj\Debug\ReversedArray.exe
+c:\users\animal\documents\visual studio 2015\Projects\ArrayAndLIsts\ReversedArray\obj\Debug\ReversedArray.pdb

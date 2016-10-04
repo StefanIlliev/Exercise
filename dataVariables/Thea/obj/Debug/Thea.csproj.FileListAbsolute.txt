@@ -1,0 +1,6 @@
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\bin\Debug\Thea.exe.config
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\bin\Debug\Thea.exe
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\bin\Debug\Thea.pdb
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\obj\Debug\Thea.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\obj\Debug\Thea.exe
+C:\Users\aNimaL\documents\visual studio 2015\Projects\dataVariables\Thea\obj\Debug\Thea.pdb

@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\bin\Debug\sumover3.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\bin\Debug\sumover3.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\bin\Debug\sumover3.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\obj\Debug\sumover3.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\obj\Debug\sumover3.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\sumover3\obj\Debug\sumover3.pdb

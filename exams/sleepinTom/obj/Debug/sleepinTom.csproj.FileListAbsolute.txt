@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\bin\Debug\sleepinTom.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\bin\Debug\sleepinTom.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\bin\Debug\sleepinTom.pdb
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\obj\Debug\sleepinTom.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\obj\Debug\sleepinTom.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\sleepinTom\obj\Debug\sleepinTom.pdb

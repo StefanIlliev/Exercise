@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\bin\Debug\pyramidNumber.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\bin\Debug\pyramidNumber.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\bin\Debug\pyramidNumber.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\obj\Debug\pyramidNumber.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\obj\Debug\pyramidNumber.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\pyramidNumber\obj\Debug\pyramidNumber.pdb

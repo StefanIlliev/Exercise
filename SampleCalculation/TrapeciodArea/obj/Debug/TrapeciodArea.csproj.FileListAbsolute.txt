@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\TrapeciodArea\bin\Debug\TrapeciodArea.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\TrapeciodArea\bin\Debug\TrapeciodArea.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\TrapeciodArea\bin\Debug\TrapeciodArea.pdb
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\TrapeciodArea\obj\Debug\TrapeciodArea.exe
+c:\users\animal\documents\visual studio 2015\Projects\SampleCalculation\TrapeciodArea\obj\Debug\TrapeciodArea.pdb

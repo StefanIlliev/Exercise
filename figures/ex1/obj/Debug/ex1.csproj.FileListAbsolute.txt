@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\bin\Debug\ex1.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\bin\Debug\ex1.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\bin\Debug\ex1.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\obj\Debug\ex1.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\ex1\obj\Debug\ex1.pdb

@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\bin\Debug\primerOrNot.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\bin\Debug\primerOrNot.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\bin\Debug\primerOrNot.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\obj\Debug\primerOrNot.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\obj\Debug\primerOrNot.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\primerOrNot\obj\Debug\primerOrNot.pdb

@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\bin\Debug\hellocsharp.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\bin\Debug\hellocsharp.exe
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\bin\Debug\hellocsharp.pdb
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\obj\Debug\hellocsharp.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\obj\Debug\hellocsharp.exe
+c:\users\animal\documents\visual studio 2015\Projects\hellocsharp\hellocsharp\obj\Debug\hellocsharp.pdb

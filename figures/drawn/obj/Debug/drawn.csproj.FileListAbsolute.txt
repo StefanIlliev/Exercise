@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\figures\drawn\bin\Debug\drawn.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\drawn\obj\Debug\drawn.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\drawn\bin\Debug\drawn.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\drawn\bin\Debug\drawn.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\drawn\obj\Debug\drawn.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\drawn\obj\Debug\drawn.pdb

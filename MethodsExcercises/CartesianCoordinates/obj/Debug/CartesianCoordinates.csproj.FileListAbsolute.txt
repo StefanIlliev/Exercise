@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CartesianCoordinates\bin\Debug\CartesianCoordinates.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CartesianCoordinates\bin\Debug\CartesianCoordinates.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CartesianCoordinates\bin\Debug\CartesianCoordinates.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CartesianCoordinates\obj\Debug\CartesianCoordinates.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\CartesianCoordinates\obj\Debug\CartesianCoordinates.pdb

@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\area\bin\Debug\area.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\area\bin\Debug\area.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\area\bin\Debug\area.pdb
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\area\obj\Debug\area.exe
+c:\users\animal\documents\visual studio 2015\Projects\dataVariables\area\obj\Debug\area.pdb

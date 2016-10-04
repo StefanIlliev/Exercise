@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\radtodeg\bin\Debug\radtodeg.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\radtodeg\bin\Debug\radtodeg.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\radtodeg\bin\Debug\radtodeg.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\radtodeg\obj\Debug\radtodeg.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\radtodeg\obj\Debug\radtodeg.pdb

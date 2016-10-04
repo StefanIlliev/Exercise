@@ -1,0 +1,5 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\triangle\bin\Debug\triangle.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\triangle\bin\Debug\triangle.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\triangle\bin\Debug\triangle.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\triangle\obj\Debug\triangle.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\SampleCalculation\triangle\obj\Debug\triangle.pdb

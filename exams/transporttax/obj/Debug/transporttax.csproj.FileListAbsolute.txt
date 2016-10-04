@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\bin\Debug\transporttax.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\obj\Debug\transporttax.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\bin\Debug\transporttax.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\bin\Debug\transporttax.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\obj\Debug\transporttax.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\transporttax\obj\Debug\transporttax.pdb

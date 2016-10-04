@@ -1,0 +1,5 @@
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\animal\documents\visual studio 2015\Projects\MethodsExcercises\PrimeNumber\obj\Debug\PrimeNumber.pdb

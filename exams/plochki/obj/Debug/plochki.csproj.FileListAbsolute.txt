@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\bin\Debug\plochki.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\bin\Debug\plochki.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\bin\Debug\plochki.pdb
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\obj\Debug\plochki.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\obj\Debug\plochki.exe
+c:\users\animal\documents\visual studio 2015\Projects\exams\plochki\obj\Debug\plochki.pdb

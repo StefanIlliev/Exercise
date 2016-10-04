@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\bin\Debug\demotest.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\bin\Debug\demotest.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\bin\Debug\demotest.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\obj\Debug\demotest.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\obj\Debug\demotest.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\figures\demotest\obj\Debug\demotest.pdb

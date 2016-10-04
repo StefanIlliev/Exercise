@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\bin\Debug\equal.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\bin\Debug\equal.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\bin\Debug\equal.pdb
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\obj\Debug\equal.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\obj\Debug\equal.exe
+c:\users\animal\documents\visual studio 2015\Projects\start\equal\obj\Debug\equal.pdb

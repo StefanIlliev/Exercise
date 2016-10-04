@@ -1,0 +1,6 @@
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\bin\Debug\poolpipes.exe.config
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\bin\Debug\poolpipes.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\bin\Debug\poolpipes.pdb
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\obj\Debug\poolpipes.csprojResolveAssemblyReference.cache
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\obj\Debug\poolpipes.exe
+C:\Users\aNimaL\Documents\Visual Studio 2015\Projects\exams\poolpipes\obj\Debug\poolpipes.pdb

@@ -1,0 +1,6 @@
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\bin\Debug\Mins-Secs.exe.config
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\bin\Debug\Mins-Secs.exe
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\bin\Debug\Mins-Secs.pdb
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\obj\Debug\Mins-Secs.csprojResolveAssemblyReference.cache
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\obj\Debug\Mins-Secs.exe
+c:\users\animal\documents\visual studio 2015\Projects\ifelseblank\Mins-Secs\obj\Debug\Mins-Secs.pdb
